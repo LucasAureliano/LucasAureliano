@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, sou o Lucas Aureliano e seja bem vindo ao meu perfil!
 
-<!--
-**LucasAureliano/LucasAureliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de **Análise e Desenvolvimento de Sistemas** na faculdade **FAM**, iniciando minha jornada no mundo da tecnologia. Tenho grande interesse por **Python**, desenvolvimento de software e análise de dados, e estou sempre buscando aprimorar meus conhecimentos. Aqui você irá acompanhar minha evolução no mundo da programação e meus projetos.
 
-Here are some ideas to get you started:
+## 💡 Minhas experiências  
+🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FAM**  
+💻 Interesse em **Python, desenvolvimento web e análise de dados**  
+📊 Experiência profissional em **marketing imobiliário, administrativo, finanças e análise de seguros na PortoBank**, agora expandindo para o mundo da tecnologia também
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que estou estudando atualmente ?  
+🔹 **Linguagens:** Python, Ruby, Java  
+🔹 **Banco de Dados:** MySQL, PostgreSQL, SQL Server  
+🔹 **Desenvolvimento Web:** HTML, CSS, JavaScript  
+🔹 **Estruturas de Dados, Algoritmos e lógica de programação**  
+
+## 📂 Aqui você encontrará em breve:  
+✅ Projetos acadêmicos e exercícios práticos  
+✅ Estudos sobre **Python** e automação de processos  
+✅ Projetos básicos de **desenvolvimento web**  
+✅ Aplicações simples para reforçar conceitos de **banco de dados e lógica de programação**  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-dos-santos-aureliano-0a171a247/))
+
