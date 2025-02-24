@@ -21,3 +21,4 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** na faculdade **FA
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-dos-santos-aureliano-0a171a247/))
 
+![LucasAureliano GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAureliano&show_icons=true&theme=synthwave)
